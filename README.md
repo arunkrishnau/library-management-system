@@ -11,7 +11,7 @@ This is a Django REST Framework-based Library Management System where users can 
 
 Installation:
 
-1. Clone the repository: 
+1. Clone the repository: https://github.com/arunkrishnau/library-management-system.git
 2. Create virtual environment and activate it: python -m venv venv
    On windows: venv\Scripts\activate
    On Mac/Linux: source venv/bin/activate
